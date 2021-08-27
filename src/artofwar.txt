@@ -49,10 +49,7 @@ It is the rule in war, if our forces are ten to the enemy's one, to surround him
 If equally matched, we can offer battle; if slightly inferior in numbers, we can avoid the enemy; if quite unequal in every way, we can flee from him.
 Hence, though an obstinate fight may be made by a small force, in the end it must be captured by the larger force.
 Now the general is the bulwark of the State; if the bulwark is complete at all points; the State will be strong; if the bulwark is defective, the State will be weak.
-There are three ways in which a ruler can bring misfortune upon his army:
-\(1) By commanding the army to advance or to retreat, being ignorant of the fact that it cannot obey. This is called hobbling the army.
-\(2) By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions which obtain in an army. This causes restlessness in the soldier's minds.
-\(3) By employing the officers of his army without discrimination, through ignorance of the military principle of adaptation to circumstances. This shakes the confidence of the soldiers.
+There are three ways in which a ruler can bring misfortune upon his army:\(1) By commanding the army to advance or to retreat, being ignorant of the fact that it cannot obey. This is called hobbling the army.\(2) By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions which obtain in an army. This causes restlessness in the soldier's minds.\(3) By employing the officers of his army without discrimination, through ignorance of the military principle of adaptation to circumstances. This shakes the confidence of the soldiers.
 But when the army is restless and distrustful, trouble is sure to come from the other feudal princes. This is simply bringing anarchy into the army, and flinging victory away.
 Thus we may know that there are five essentials for victory: \(1) He will win who knows when to fight and when not to fight. \(2) He will win who knows how to handle both superior and inferior forces. \(3) He will win whose army is animated by the same spirit throughout all its ranks.  \(4) He will win who, prepared himself, waits to take the enemy unprepared.  \(5) He will win who has military capacity and is not interfered with by the sovereign.
 Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.
@@ -230,18 +227,12 @@ Therefore soldiers must be treated in the first instance with humanity, but kept
 If in training soldiers commands are habitually enforced, the army will be well-disciplined; if not, its discipline will be bad.
 If a general shows confidence in his men but always insists on his orders being obeyed, the gain will be mutual.
 We may distinguish six kinds of terrain, to wit: \(1) Accessible ground; \(2) entangling ground; \(3) temporizing ground; \(4) narrow passes; \(5) precipitous heights; \(6) positions at a great distance from the enemy.
-Ground which can be freely traversed by both sides is called ACCESSIBLE.
-With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage.
-Ground which can be abandoned but is hard to re-occupy is called ENTANGLING.
-From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue.
-When the position is such that neither side will gain by making the first move, it is called TEMPORIZING ground.
-In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage.
-With regard to NARROW PASSES, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy.
-Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned.
-With regard to PRECIPITOUS HEIGHTS, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up.
-If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away.
+Ground which can be freely traversed by both sides is called ACCESSIBLE.\With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage.
+Ground which can be abandoned but is hard to re-occupy is called ENTANGLING.\From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue.
+When the position is such that neither side will gain by making the first move, it is called TEMPORIZING ground.\In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage.
+With regard to NARROW PASSES, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy.\Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned.
+With regard to PRECIPITOUS HEIGHTS, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up.\If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away.
 If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage.
-These six are the principles connected with Earth. The general who has attained a responsible post must be careful to study them.
 Now an army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible. These are: \(1) Flight; \(2) insubordination; \(3) collapse; \(4) ruin; \(5) disorganization; \(6) rout.
 Other conditions being equal, if one force is hurled against another ten times its size, the result will be the FLIGHT of the former.
 When the common soldiers are too strong and their officers too weak, the result is INSUBORDINATION. When the officers are too strong and the common soldiers too weak, the result is COLLAPSE.
