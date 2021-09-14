@@ -1,12 +1,12 @@
-The art of war is of vital importance to the State. \It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.
-The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field. These are: \(1) The Moral Law; \(2) Heaven; \(3) Earth; \(4) The Commander; \(5) Method and discipline.
+The art of war is of vital importance to the State.\It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.
+The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field. These are:\(1) The Moral Law;\(2) Heaven;\(3) Earth;\(4) The Commander;\(5) Method and discipline.
 The MORAL LAW causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger.
 HEAVEN signifies night and day, cold and heat, times and seasons.
 EARTH comprises distances, great and small; danger and security; open ground and narrow passes; the chances of life and death.
 The COMMANDER stands for the virtues of wisdom, sincerity, benevolence, courage and strictness.
 By METHOD AND DISCIPLINE are to be understood the marshaling of the army in its proper subdivisions, the graduations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure.
 These five heads should be familiar to every general: he who knows them will be victorious; he who knows them not will fail.
-Therefore, in your deliberations, when seeking to determine the military conditions, let them be made the basis of a comparison, in these ways: \(1) Which of the two sovereigns is imbued with the Moral law? \(2) Which of the two generals has most ability? \(3) With whom lie the advantages derived from Heaven and Earth? \(4) On which side is discipline most rigorously enforced? \(5) Which army is stronger? \(6) On which side are officers and men more highly trained? \(7) In which army is there the greater constancy both in reward and punishment? \By means of these seven considerations I can forecast victory or defeat.
+Therefore, in your deliberations, when seeking to determine the military conditions, let them be made the basis of a comparison, in these ways:\(1) Which of the two sovereigns is imbued with the Moral law?\(2) Which of the two generals has most ability?\(3) With whom lie the advantages derived from Heaven and Earth?\(4) On which side is discipline most rigorously enforced?\(5) Which army is stronger?\(6) On which side are officers and men more highly trained?\(7) In which army is there the greater constancy both in reward and punishment?\By means of these seven considerations I can forecast victory or defeat.
 The general that hearkens to my counsel and acts upon it, will conquer: let such a one be retained in command! The general that hearkens not to my counsel nor acts upon it, will suffer defeat: let such a one be dismissed!
 While heeding the profit of my counsel, avail yourself also of any helpful circumstances over and beyond the ordinary rules.
 According as circumstances are favorable, one should modify one's plans.
@@ -50,7 +50,7 @@ Hence, though an obstinate fight may be made by a small force, in the end it mus
 Now the general is the bulwark of the State; if the bulwark is complete at all points; the State will be strong; if the bulwark is defective, the State will be weak.
 There are three ways in which a ruler can bring misfortune upon his army:\(1) By commanding the army to advance or to retreat, being ignorant of the fact that it cannot obey. This is called hobbling the army.\(2) By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions which obtain in an army. This causes restlessness in the soldier's minds.\(3) By employing the officers of his army without discrimination, through ignorance of the military principle of adaptation to circumstances. This shakes the confidence of the soldiers.
 But when the army is restless and distrustful, trouble is sure to come from the other feudal princes. This is simply bringing anarchy into the army, and flinging victory away.
-Thus we may know that there are five essentials for victory: \(1) He will win who knows when to fight and when not to fight. \(2) He will win who knows how to handle both superior and inferior forces. \(3) He will win whose army is animated by the same spirit throughout all its ranks.  \(4) He will win who, prepared himself, waits to take the enemy unprepared.  \(5) He will win who has military capacity and is not interfered with by the sovereign.
+Thus we may know that there are five essentials for victory:\(1) He will win who knows when to fight and when not to fight.\(2) He will win who knows how to handle both superior and inferior forces.\(3) He will win whose army is animated by the same spirit throughout all its ranks.\(4) He will win who, prepared himself, waits to take the enemy unprepared.\(5) He will win who has military capacity and is not interfered with by the sovereign.
 Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.
 The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.
 To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
@@ -79,8 +79,8 @@ That the impact of your army may be like a grindstone dashed against an egg---th
 In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.
 Indirect tactics, efficiently applied, are inexhaustible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away to return once more.
 There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard.
-There are not more than five primary colors \(blue, yellow, red, white, and black), yet in combination they produce more hues than can ever been seen.
-There are not more than five cardinal tastes \(sour, acrid, salt, sweet, bitter), yet combinations of them yield more flavors than can ever be tasted.
+There are not more than five primary colors\(blue, yellow, red, white, and black), yet in combination they produce more hues than can ever been seen.
+There are not more than five cardinal tastes\(sour, acrid, salt, sweet, bitter), yet combinations of them yield more flavors than can ever be tasted.
 In battle, there are not more than two methods of attack: the direct and the indirect; yet these two in combination give rise to an endless series of maneuvers.
 The direct and the indirect lead on to each other in turn. It is like moving in a circle---you never come to an end.  Who can exhaust the possibilities of their combination?
 The onset of troops is like the rush of a torrent which will even roll stones along in its course.
@@ -129,16 +129,12 @@ Water shapes its course according to the nature of the ground over which it flow
 Therefore, just as water retains no constant shape, so in warfare there are no constant conditions.
 He who can modify his tactics in relation to his opponent and thereby succeed in winning, may be called a heaven-born captain.
 The five elements (water, fire, wood, metal, earth) are not always equally predominant; the four seasons make way for each other in turn. There are short days and long; the moon has its periods of waning and waxing.
-In war, the general receives his commands from the sovereign.
-Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp.
-After that, comes tactical maneuvering, than which there is nothing more difficult. The difficulty of tactical maneuvering consists in turning the devious into the direct, and misfortune into gain.
+In war, the general receives his commands from the sovereign.\Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp.\After that, comes tactical maneuvering, than which there is nothing more difficult. The difficulty of tactical maneuvering consists in turning the devious into the direct, and misfortune into gain.
 Thus, to take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of DEVIATION.
 Maneuvering with an army is advantageous; with an undisciplined multitude, most dangerous.
 If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late.  On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores.
-Thus, if you order your men to roll up their buff-coats, and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred LI in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy.
-The stronger men will be in front, the jaded ones will fall behind, and on this plan only one-tenth of your army will reach its destination.
-If you march fifty LI in order to outmaneuver the enemy, you will lose the leader of your first division, and only half your force will reach the goal.
-If you march thirty LI with the same object, two-thirds of your army will arrive.
+Thus, if you order your men to roll up their buff-coats, and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred LI in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy.\The stronger men will be in front, the jaded ones will fall behind, and on this plan only one-tenth of your army will reach its destination.
+If you march fifty LI in order to outmaneuver the enemy, you will lose the leader of your first division, and only half your force will reach the goal.\If you march thirty LI with the same object, two-thirds of your army will arrive.
 We may take it then that an army without its baggage train is lost; without provisions it is lost; without bases of supply it is lost.
 We cannot enter into alliances until we are acquainted with the designs of our neighbors.
 We are not fit to lead an army on the march unless we are familiar with the face of the country---its mountains and forests, its pitfalls and precipices, its marshes and swamps.
@@ -177,7 +173,7 @@ If our expectation of advantage be tempered in this way, we may succeed in accom
 If, on the other hand, in the midst of difficulties we are always ready to seize an advantage, we may extricate ourselves from misfortune.
 Reduce the hostile chiefs by inflicting damage on them; and make trouble for them, and keep them constantly engaged; hold out specious allurements, and make them rush to any given point.
 The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.
-There are five dangerous faults which may affect a general: \(1) Recklessness, which leads to destruction; \(2) cowardice, which leads to capture; \(3) a hasty temper, which can be provoked by insults; \(4) a delicacy of honor which is sensitive to shame; \(5) over-solicitude for his men, which exposes him to worry and trouble.
+There are five dangerous faults which may affect a general:\(1) Recklessness, which leads to destruction;\(2) cowardice, which leads to capture;\(3) a hasty temper, which can be provoked by insults;\(4) a delicacy of honor which is sensitive to shame;\(5) over-solicitude for his men, which exposes him to worry and trouble.
 These are the five besetting sins of a general, ruinous to the conduct of war.
 When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults.  Let them be a subject of meditation.
 We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys.
@@ -225,14 +221,14 @@ If soldiers are punished before they have grown attached to you, they will not p
 Therefore soldiers must be treated in the first instance with humanity, but kept under control by means of iron discipline. This is a certain road to victory.
 If in training soldiers commands are habitually enforced, the army will be well-disciplined; if not, its discipline will be bad.
 If a general shows confidence in his men but always insists on his orders being obeyed, the gain will be mutual.
-We may distinguish six kinds of terrain, to wit: \(1) Accessible ground; \(2) entangling ground; \(3) temporizing ground; \(4) narrow passes; \(5) precipitous heights; \(6) positions at a great distance from the enemy.
+We may distinguish six kinds of terrain, to wit:\(1) Accessible ground;\(2) entangling ground;\(3) temporizing ground;\(4) narrow passes;\(5) precipitous heights;\(6) positions at a great distance from the enemy.
 Ground which can be freely traversed by both sides is called ACCESSIBLE.\With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage.
 Ground which can be abandoned but is hard to re-occupy is called ENTANGLING.\From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue.
 When the position is such that neither side will gain by making the first move, it is called TEMPORIZING ground.\In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage.
 With regard to NARROW PASSES, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy.\Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned.
 With regard to PRECIPITOUS HEIGHTS, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up.\If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away.
 If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage.
-Now an army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible. These are: \(1) Flight; \(2) insubordination; \(3) collapse; \(4) ruin; \(5) disorganization; \(6) rout.
+Now an army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible. These are:\(1) Flight;\(2) insubordination;\(3) collapse;\(4) ruin;\(5) disorganization;\(6) rout.
 Other conditions being equal, if one force is hurled against another ten times its size, the result will be the FLIGHT of the former.
 When the common soldiers are too strong and their officers too weak, the result is INSUBORDINATION. When the officers are too strong and the common soldiers too weak, the result is COLLAPSE.
 When the higher officers are angry and insubordinate, and on meeting the enemy give battle on their own account from a feeling of resentment, before the commander-in-chief can tell whether or no he is in a position to fight, the result is RUIN.
@@ -250,7 +246,7 @@ If we know that the enemy is open to attack, but are unaware that our own men ar
 If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway towards victory.
 Hence the experienced soldier, once in motion, is never bewildered; once he has broken camp, he is never at a loss.
 Hence the saying: If you know the enemy and know yourself, your victory will not stand in doubt; if you know Heaven and know Earth, you may make your victory complete.
-The art of war recognizes nine varieties of ground: \(1) Dispersive ground; \(2) facile ground; \(3) contentious ground; \(4) open ground; \(5) ground of intersecting highways; \(6) serious ground; \(7) difficult ground; \(8) hemmed-in ground; \(9) desperate ground.
+The art of war recognizes nine varieties of ground:\(1) Dispersive ground;\(2) facile ground;\(3) contentious ground;\(4) open ground;\(5) ground of intersecting highways;\(6) serious ground;\(7) difficult ground;\(8) hemmed-in ground;\(9) desperate ground.
 When a chieftain is fighting in his own territory, it is dispersive ground.
 When he has penetrated into hostile territory, but to no great distance, it is facile ground.
 Ground the possession of which imports great advantage to either side, is contentious ground.
@@ -341,13 +337,7 @@ One who acts thus is no leader of men, no present help to his sovereign, no mast
 Thus, what enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is FOREKNOWLEDGE.
 Now this foreknowledge cannot be elicited from spirits; it cannot be obtained inductively from experience, nor by any deductive calculation.
 Knowledge of the enemy's dispositions can only be obtained from other men.
-Hence the use of spies, of whom there are five classes: \(1) Local spies; \(2) inward spies; \(3) converted spies; \(4) doomed spies; \(5) surviving spies.
-When these five kinds of spy are all at work, none can discover the secret system. This is called "divine manipulation of the threads." It is the sovereign's most precious faculty.
-Having LOCAL SPIES means employing the services of the inhabitants of a district.
-Having INWARD SPIES, making use of officials of the enemy.
-Having CONVERTED SPIES, getting hold of the enemy's spies and using them for our own purposes.
-Having DOOMED SPIES, doing certain things openly for purposes of deception, and allowing our spies to know of them and report them to the enemy.
-SURVIVING SPIES, finally, are those who bring back news from the enemy's camp.
+Hence the use of spies, of whom there are five classes:\(1) Local spies;\(2) inward spies;\(3) converted spies;\(4) doomed spies;\(5) surviving spies.\When these five kinds of spy are all at work, none can discover the secret system. This is called "divine manipulation of the threads." It is the sovereign's most precious faculty.\Having LOCAL SPIES means employing the services of the inhabitants of a district.\Having INWARD SPIES, making use of officials of the enemy.\Having CONVERTED SPIES, getting hold of the enemy's spies and using them for our own purposes.\Having DOOMED SPIES, doing certain things openly for purposes of deception, and allowing our spies to know of them and report them to the enemy.\SURVIVING SPIES, finally, are those who bring back news from the enemy's camp.
 Hence it is that which none in the whole army are more intimate relations to be maintained than with spies. None should be more liberally rewarded. In no other business should greater secrecy be preserved.
 Spies cannot be usefully employed without a certain intuitive sagacity.
 They cannot be properly managed without benevolence and straightforwardness.
