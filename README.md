@@ -1,5 +1,5 @@
 # tzu
-Print random quotes from _The Art of War_ by Sun Tzu in the terminal
+Print quotes from _The Art of War_ by Sun Tzu in the terminal
 
 ## Installation
 To install tzu, clone the repository and run `cargo install` on the cloned directory;
